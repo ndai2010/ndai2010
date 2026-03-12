@@ -2,8 +2,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Dai%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35)
 
 ## 👨‍💻 About Me
-- 🎯 **Full-stack Developer** & **Machine Learning Enthusiast**  
-- 📚 Đam mê học hỏi công nghệ mới, đặc biệt là **AI**, **Data Science**, và **Web Development**  
+- 🎯 **Full-stack Developer** 
+- 📚 Đam mê học hỏi công nghệ mới  
 - 💡 Luôn tìm kiếm cơ hội đóng góp vào các dự án **mã nguồn mở**  
 - ⚡ **Fun fact**: Có thể ngồi debug hàng giờ nhưng vẫn vui 😄  
 
