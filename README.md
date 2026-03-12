@@ -3,10 +3,7 @@
 
 ## 👨‍💻 About Me
 - 🎯 **Full-stack Developer** 
-- 📚 Đam mê học hỏi công nghệ mới  
-- 💡 Luôn tìm kiếm cơ hội đóng góp vào các dự án **mã nguồn mở**  
-- ⚡ **Fun fact**: Có thể ngồi debug hàng giờ nhưng vẫn vui 😄  
-
+- 📚 Đam mê học hỏi công nghệ mới
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nv.dangd@gmail.com) 
 
